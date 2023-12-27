@@ -8,6 +8,7 @@ public class Binary_search
 
         int [] arr={1,2,3,4,5};
         System.out.println(binarySearch(arr,4));
+        System.out.println(arr); //doesn't show array in vs studio
         
 
     }
